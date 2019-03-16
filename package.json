@@ -16,7 +16,7 @@
   "author": "Divya Sasidharan",
   "license": "MIT",
   "dependencies": {
-    "nuxt": "^1.4.1"
+    "nuxt": "^2.4.5"
   },
   "devDependencies": {
     "@nuxtjs/router": "^1.0.1",
